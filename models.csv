@@ -1,0 +1,19 @@
+# list available models, one per line
+# uncomment those you want to use
+type, provider, model
+"proprietary", "tidyllm", "gpt-4o-2024-08-06"
+"proprietary", "tidyllm", "gemini-1.5-flash"
+"proprietary", "tidyllm", "claude-3-5-sonnet-20241022"
+#"open source", "chatai", "meta-llama-3.1-8b-instruct"
+#"open source", "chatai", "internvl2.5-8b"
+#"open source", "chatai", "deepseek-r1"
+#"open source", "chatai", "deepseek-r1-distill-llama-70b"
+"open source", "chatai", "llama-3.3-70b-instruct"
+#"open source", "chatai", "llama-3.1-nemotron-70b-instruct"
+#"open source", "chatai", "llama-3.1-sauerkrautlm-70b-instruct"
+"open source", "chatai", "mistral-large-instruct"
+"open source", "chatai", "qwen2.5-72b-instruct"
+#"open source", "chatai", "qwen2.5-coder-32b-instruct"
+#"open source", "chatai", "codestral-22b"
+#"open source", "chatai", "internvl2-8b"
+#"open source", "chatai", "teuken-7b-instruct-research"
